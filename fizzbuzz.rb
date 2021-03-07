@@ -8,7 +8,5 @@ def fizzbuzz(int)
     "Buzz"
   if int % 3 == 0 && int % 5 == 0
     "Fizzbuzz"
-  elsif
-    puts int
   end
 end
